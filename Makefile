@@ -1,3 +1,9 @@
+
+#skfly add begin
+THEOS_DEVICE_IP = 192.168.0.57
+#skfly add end
+
+
 GO_EASY_ON_ME=1
 #TARGET = simulator:clang:11.0
 #TARGET = macosx
