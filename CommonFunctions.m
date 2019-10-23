@@ -248,7 +248,7 @@ static NSString * copyrightMessage(char *image){
 
 void printHelp(){
 
-	printf("\nclassdump-dyld v1.0. Licensed under GPLv3, Copyright \u00A9 2013-2014 by Elias Limneos.\n\n");
+	printf("\nclassdump-dyld v1.0. Licensed under GPLv3, Copyright \u00A9 2013-2014 by 魏鹏飞.\n\n");
 	printf("Usage: classdump-dyld [<options>] <filename|framework>\n");
 	printf("       or\n");
 	printf("       classdump-dyld [<options>] -r <sourcePath>\n\n");
